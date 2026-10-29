@@ -26,7 +26,7 @@ The project was completed as part of a data analysis assignment.
 - `Assignment_1 questions Car Price Dataset.pdf` — Assignment questions.
 - `README.md` — Project documentation.
 
-*File names above should match the files actually present in your repository.*
+
 
 ## 🚀 How to Run the Project
 
@@ -47,15 +47,15 @@ This project demonstrates basic data analysis skills, working with CSV files, an
 
 ## 👨‍💻 Author
 
-**Sujal Sarande**
+** Anajli Sarvade **
 
-- **GitHub:** [sarandesujal2512](https://github.com/sarandesujal2512)
-- **Email:** sujalsarande25@gmail.com
-- **Phone:** +91 8625077209
+- **GitHub:** [Sarvade Anjali](https://github.com/anjali-python-svg/car_datatset)
+- **Email:** sarvadeanjali7@gamil.com
+- **Phone:** +91 8263079871
 
 ## 🔗 Repository
 
-[View the Car Price Dataset Analysis Project](https://github.com/sarandesujal2512/assignment_cars_dataset)
+[View the Car Price Dataset Analysis Project](https://github.com/anjali-python-svg/car_datatset)
 
 ---
 
